@@ -11,10 +11,10 @@ Projeto desenvolvido na DIO (DIGITAL INNOVATION ONE) com o intuito de criar uma 
 - Spring boot - para facilitar a criação da aplicação
 - Lombok - melhorar a eficiência de escrita do código
 - H2 database - para o banco de dados
-- Maven - para gerenciamento de dependências
+- Maven - para gerenciamento de dependências back end
 - Spring Web - para criação da API
 
-
+- NPM - para gerenciar dependências do projeto no front end
 
 
 
