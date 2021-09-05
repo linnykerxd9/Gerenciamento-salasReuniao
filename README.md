@@ -38,7 +38,7 @@ http://localhost:8082/api/v1/rooms
 
 
 
-Rota para ver uma sala existente
+Rota para ver uma sala existente:
 
 ```
 http://localhost:8082/api/v1/rooms/:id
@@ -59,4 +59,47 @@ Rota para apagar uma sala existente:
 ```
 http://localhost:8082/api/v1/rooms/:id
 ```
+
+
+
+## Front end do projeto (saladereuniao-Web)
+
+
+
+Rota inicial do projeto:
+
+```
+http://localhost:4200/rooms
+```
+
+ou
+
+```
+http://localhost:4200
+```
+
+
+
+Rota para criar uma sala
+
+```
+http://localhost:4200/add
+```
+
+
+
+Rota para ver uma sala existente
+
+```
+http://localhost:4200/details/:id
+```
+
+
+
+Rota para atualizar uma sala existente:
+
+```
+http://localhost:4200/update/:id
+```
+
 
